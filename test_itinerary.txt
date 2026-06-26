@@ -1,0 +1,51 @@
+======================================================================
+                  OFFICIAL TRAVEL ITINERARY & RESERVATIONS
+======================================================================
+Passenger Name: Rudra Suthar
+Travel Date: July 10 - July 15, 2026
+Destination: Paris, France
+
+----------------------------------------------------------------------
+1. FLIGHT DETAILS
+----------------------------------------------------------------------
+Flight Number: Air France AF123
+Route: New York (JFK) to Paris Charles de Gaulle (CDG)
+Departure Date: July 10, 2026
+Departure Time: 6:30 PM (18:30) - Terminal 4
+Boarding Time: 5:45 PM (17:45)
+Seat Assignment: 14A (Window, Economy Plus)
+Baggage Allowance: 1 Checked Bag (up to 23kg), 1 Carry-on
+
+----------------------------------------------------------------------
+2. HOTEL ACCOMMODATIONS
+----------------------------------------------------------------------
+Hotel Name: Le Grand Hotel de Paris
+Address: 12 Rue de Rivoli, 75004 Paris, France
+Booking Confirmation Number: HP-987654
+Check-In Date: July 11, 2026 (from 3:00 PM)
+Check-Out Date: July 15, 2026 (by 11:00 AM)
+Room Type: Deluxe Queen Room - City View
+Breakfast: Included daily (Served 7:00 AM - 10:00 AM in the Lobby Café)
+
+----------------------------------------------------------------------
+3. SCHEDULED ACTIVITIES
+----------------------------------------------------------------------
+- July 12, 2026 (2:00 PM / 14:00): Eiffel Tower Guided Tour (Summit Access)
+  * Booking Reference: Tour-5544
+  * Meeting Point: North Pillar under the Eiffel Tower (Look for the green flag)
+  
+- July 13, 2026 (10:00 AM): Louvre Museum Skip-the-Line Entry
+  * Booking Reference: LVR-1122
+  * Guide: Audio-guided app download required before arrival
+  
+- July 14, 2026 (8:00 PM / 20:00): Seine River Dinner Cruise
+  * Booking Reference: BATEAUX-8899
+  * Boarding Location: Port de la Bourdonnais (Near Pont d'Iéna)
+
+----------------------------------------------------------------------
+4. EMERGENCY CONTACTS
+----------------------------------------------------------------------
+Travel Concierge Helpline: +1-800-555-0199 (24/7 Support)
+Hotel Front Desk: +33 1 42 76 50 00
+Local Emergency Number: 112 (Police/Medical in France)
+======================================================================
