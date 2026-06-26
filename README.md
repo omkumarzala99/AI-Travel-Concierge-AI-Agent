@@ -111,10 +111,3 @@ To prevent complex API key permission conflicts and heavy PyTorch package downlo
 
 ---
 
-## 🎯 Top 5 Presentation & Demo Talking Points
-
-1. **Multi-Format In-Memory Upload**: Parses `.pdf`, `.docx`, and `.txt` files directly from memory buffers (`io.BytesIO`) without local disk persistence, ensuring 100% thread safety for multiple users on Streamlit Cloud.
-2. **Deterministic Agentic Routing**: Demonstrates LangGraph separating concerns. Complex metadata commands are routed straight to analytical tools, search requests trigger FAISS similarity extraction, and conversational items fall back to LLM chat history.
-3. **Strict Anti-Hallucination Guardrails**: Demonstrates the prompt instructions preventing AI from making up tickets or travel information when missing from the uploaded files.
-4. **Context Citation Display**: Highlights how retrieved chunks are displayed to the user inside accordions below response bubbles, linking answers directly to their origin documents.
-5. **CI/CD Integrations**: Showcases the automated GitHub Actions pipeline executing the pytest suite on every push or pull request to verify compilation health.
