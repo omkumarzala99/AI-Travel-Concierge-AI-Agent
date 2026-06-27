@@ -73,7 +73,7 @@ def get_embeddings():
             raise ValueError("GOOGLE_API_KEY is not set but Gemini embeddings provider was requested.")
         # If Gemini embeddings fail due to account v1beta API permissions, they can override to "local"
         try:
-            return GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", google_api_key=GOOGLE_API_KEY)
+            return GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001", google_api_key=GOOGLE_API_KEY)
         except Exception as e:
             log.warning(f"Failed to load Gemini embeddings API: {str(e)}. Falling back to local Hashing embeddings...")
             return SimpleHashingEmbeddings()
